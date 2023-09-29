@@ -14,6 +14,9 @@ dependencies:
   '@formkit/pro':
     specifier: latest
     version: 0.115.10
+  unplugin-formkit:
+    specifier: 0.2.6
+    version: 0.2.6(vite@4.4.9)
 
 devDependencies:
   '@nuxt/devtools':

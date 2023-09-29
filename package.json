@@ -16,8 +16,9 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@formkit/nuxt": "1.2.0",
     "@formkit/icons": "1.2.0",
-    "@formkit/pro": "latest"
+    "@formkit/nuxt": "1.2.0",
+    "@formkit/pro": "latest",
+    "unplugin-formkit": "0.2.6"
   }
 }
